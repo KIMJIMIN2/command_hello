@@ -1,5 +1,5 @@
 // For Command line git_ex
-// Local repository modification 수정할거야
+// Local repository modification 
 
 print("Hello World")
 print("Hello MJKim")
